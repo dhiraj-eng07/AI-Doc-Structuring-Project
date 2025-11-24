@@ -1,0 +1,224 @@
+[
+  {
+    "key": "First Name",
+    "value": "Vijay",
+    "comments": "The text states 'Vijay Kumar was born on March 15, 1989'.",
+    "raw_context": "Vijay Kumar was born on March 15, 1989, in Jaipur, Rajasthan, making him 35 years old as of 2024."
+  },
+  {
+    "key": "Last Name",
+    "value": "Kumar",
+    "comments": "The text states 'Vijay Kumar was born on March 15, 1989'.",
+    "raw_context": "Vijay Kumar was born on March 15, 1989, in Jaipur, Rajasthan, making him 35 years old as of 2024."
+  },
+  {
+    "key": "Date of Birth",
+    "value": "1989-03-15",
+    "comments": "The text explicitly states 'His birthdate is formatted as 1989-03-15 in ISO format for easy parsing'.",
+    "raw_context": "His birthdate is formatted as 1989-03-15 in ISO format for easy parsing, while his age serves as a\nkey demographic marker for analytical purposes."
+  },
+  {
+    "key": "Birth City",
+    "value": "Jaipur",
+    "comments": "The text mentions 'Vijay Kumar was born on March 15, 1989, in Jaipur, Rajasthan'.",
+    "raw_context": "Vijay Kumar was born on March 15, 1989, in Jaipur, Rajasthan, making him 35 years old as of 2024."
+  },
+  {
+    "key": "Birth State",
+    "value": "Rajasthan",
+    "comments": "The text mentions 'Vijay Kumar was born on March 15, 1989, in Jaipur, Rajasthan'.",
+    "raw_context": "Vijay Kumar was born on March 15, 1989, in Jaipur, Rajasthan, making him 35 years old as of 2024."
+  },
+  {
+    "key": "Age",
+    "value": "35",
+    "comments": "The text states 'making him 35 years old as of 2024'.",
+    "raw_context": "Vijay Kumar was born on March 15, 1989, in Jaipur, Rajasthan, making him 35 years old as of 2024."
+  },
+  {
+    "key": "Blood Group",
+    "value": "O+",
+    "comments": "The text explicitly mentions 'his O+ blood group is noted for emergency contact purposes'.",
+    "raw_context": "Born and raised in the Pink City of India, his\nbirthplace provides valuable regional profiling context, and his O+ blood group is noted for\nemergency contact purposes."
+  },
+  {
+    "key": "Nationality",
+    "value": "Indian",
+    "comments": "The text states 'As an Indian national, his citizenship status is important'.",
+    "raw_context": "As an Indian national, his citizenship status is important for\nunderstanding his work authorization and visa requirements across different employment\nopportunities."
+  },
+  {
+    "key": "Joining Date of first professional role",
+    "value": "July 1, 2012",
+    "comments": "The text states 'Vijay's professional journey began on July 1, 2012, when he joined his first company'.",
+    "raw_context": "Vijay's professional journey began on July 1, 2012, when he joined his first company as a Junior\nDeveloper with an annual salary of 350,000 INR."
+  },
+  {
+    "key": "Designation of first professional role",
+    "value": "Junior Developer",
+    "comments": "The text states 'he joined his first company as a Junior Developer'.",
+    "raw_context": "Vijay's professional journey began on July 1, 2012, when he joined his first company as a Junior\nDeveloper with an annual salary of 350,000 INR."
+  },
+  {
+    "key": "Salary of first professional role",
+    "value": "350,000",
+    "comments": "The text states 'with an annual salary of 350,000 INR'.",
+    "raw_context": "Vijay's professional journey began on July 1, 2012, when he joined his first company as a Junior\nDeveloper with an annual salary of 350,000 INR."
+  },
+  {
+    "key": "Salary currency of first professional role",
+    "value": "INR",
+    "comments": "The text states 'with an annual salary of 350,000 INR'.",
+    "raw_context": "Vijay's professional journey began on July 1, 2012, when he joined his first company as a Junior\nDeveloper with an annual salary of 350,000 INR."
+  },
+  {
+    "key": "Current Organization",
+    "value": "Resse Analytics",
+    "comments": "The text mentions 'his current role at Resse Analytics beginning on June 15, 2021'.",
+    "raw_context": "His career progression shows remarkable growth,\nwith his current role at Resse Analytics beginning on June 15, 2021, where he serves as a Senior\nData Engineer earning 2,800,000 INR annually."
+  },
+  {
+    "key": "Current Joining Date",
+    "value": "June 15, 2021",
+    "comments": "The text states 'his current role at Resse Analytics beginning on June 15, 2021'.",
+    "raw_context": "His career progression shows remarkable growth,\nwith his current role at Resse Analytics beginning on June 15, 2021, where he serves as a Senior\nData Engineer earning 2,800,000 INR annually."
+  },
+  {
+    "key": "Current Designation",
+    "value": "Senior Data Engineer",
+    "comments": "The text states 'where he serves as a Senior Data Engineer'.",
+    "raw_context": "His career progression shows remarkable growth,\nwith his current role at Resse Analytics beginning on June 15, 2021, where he serves as a Senior\nData Engineer earning 2,800,000 INR annually."
+  },
+  {
+    "key": "Current Salary",
+    "value": "2,800,000",
+    "comments": "The text states 'earning 2,800,000 INR annually'.",
+    "raw_context": "His career progression shows remarkable growth,\nwith his current role at Resse Analytics beginning on June 15, 2021, where he serves as a Senior\nData Engineer earning 2,800,000 INR annually."
+  },
+  {
+    "key": "Current Salary Currency",
+    "value": "INR",
+    "comments": "The text states 'earning 2,800,000 INR annually'.",
+    "raw_context": "His career progression shows remarkable growth,\nwith his current role at Resse Analytics beginning on June 15, 2021, where he serves as a Senior\nData Engineer earning 2,800,000 INR annually."
+  },
+  {
+    "key": "Previous Organization",
+    "value": "LakeCorp Solutions",
+    "comments": "The text states 'Before this position, he worked at LakeCorp Solutions'.",
+    "raw_context": "Before this position, he worked at LakeCorp Solutions from February 1, 2018, to 2021, starting as a Data Analyst and earning a promotion in\n2019."
+  },
+  {
+    "key": "Previous Joining Date",
+    "value": "February 1, 2018",
+    "comments": "The text states 'he worked at LakeCorp Solutions from February 1, 2018, to 2021'.",
+    "raw_context": "Before this position, he worked at LakeCorp Solutions from February 1, 2018, to 2021, starting as a Data Analyst and earning a promotion in\n2019."
+  },
+  {
+    "key": "Previous end year",
+    "value": "2021",
+    "comments": "The text states 'he worked at LakeCorp Solutions from February 1, 2018, to 2021'.",
+    "raw_context": "Before this position, he worked at LakeCorp Solutions from February 1, 2018, to 2021, starting as a Data Analyst and earning a promotion in\n2019."
+  },
+  {
+    "key": "Previous Starting Designation",
+    "value": "Data Analyst",
+    "comments": "The text states 'starting as a Data Analyst and earning a promotion in 2019'.",
+    "raw_context": "Before this position, he worked at LakeCorp Solutions from February 1, 2018, to 2021, starting as a Data Analyst and earning a promotion in\n2019."
+  },
+  {
+    "key": "High School",
+    "value": "St. Xavier's School, Jaipur",
+    "comments": "The text mentions 'beginning with his high school education at St. Xavier's School, Jaipur'.",
+    "raw_context": "His academic foundation is equally impressive, beginning with his high school education at St.\nXavier's School, Jaipur, where he completed his 12th standard in 2007, achieving an outstanding\n92.5% overall score in his board examinations."
+  },
+  {
+    "key": "12th standard pass out year",
+    "value": "2007",
+    "comments": "The text states 'he completed his 12th standard in 2007'.",
+    "raw_context": "His academic foundation is equally impressive, beginning with his high school education at St.\nXavier's School, Jaipur, where he completed his 12th standard in 2007, achieving an outstanding\n92.5% overall score in his board examinations."
+  },
+  {
+    "key": "12th overall board score",
+    "value": "92.5%",
+    "comments": "The text states 'achieving an outstanding 92.5% overall score in his board examinations'.",
+    "raw_context": "His academic foundation is equally impressive, beginning with his high school education at St.\nXavier's School, Jaipur, where he completed his 12th standard in 2007, achieving an outstanding\n92.5% overall score in his board examinations."
+  },
+  {
+    "key": "Undergraduate degree",
+    "value": "B.Tech in Computer Science",
+    "comments": "The text states 'He pursued his B.Tech in Computer Science at the prestigious IIT Delhi'.",
+    "raw_context": "He pursued his B.Tech in Computer Science at the prestigious IIT Delhi, graduating with honors in 2011\nwith a CGPA of 8.7 on a 10-point scale, ranking 15th among 120 students in his class."
+  },
+  {
+    "key": "Undergraduate college",
+    "value": "IIT Delhi",
+    "comments": "The text states 'He pursued his B.Tech in Computer Science at the prestigious IIT Delhi'.",
+    "raw_context": "He pursued his B.Tech in Computer Science at the prestigious IIT Delhi, graduating with honors in 2011\nwith a CGPA of 8.7 on a 10-point scale, ranking 15th among 120 students in his class."
+  },
+  {
+    "key": "Undergraduate year",
+    "value": "2011",
+    "comments": "The text states 'graduating with honors in 2011'.",
+    "raw_context": "He pursued his B.Tech in Computer Science at the prestigious IIT Delhi, graduating with honors in 2011\nwith a CGPA of 8.7 on a 10-point scale, ranking 15th among 120 students in his class."
+  },
+  {
+    "key": "Undergraduate CGPA",
+    "value": "8.7",
+    "comments": "The text states 'graduating with honors in 2011 with a CGPA of 8.7 on a 10-point scale'.",
+    "raw_context": "He pursued his B.Tech in Computer Science at the prestigious IIT Delhi, graduating with honors in 2011\nwith a CGPA of 8.7 on a 10-point scale, ranking 15th among 120 students in his class."
+  },
+  {
+    "key": "Graduation degree",
+    "value": "M.Tech in Data Science",
+    "comments": "The text states 'where he earned his M.Tech in Data Science in 2013'.",
+    "raw_context": "His academic excellence continued at IIT Bombay, where he earned his M.Tech in Data Science in 2013, achieving\nan exceptional CGPA of 9.2 and scoring 95 out of 100 for his final year thesis project."
+  },
+  {
+    "key": "Graduation college",
+    "value": "IIT Bombay",
+    "comments": "The text states 'His academic excellence continued at IIT Bombay'.",
+    "raw_context": "His academic excellence continued at IIT Bombay, where he earned his M.Tech in Data Science in 2013, achieving\nan exceptional CGPA of 9.2 and scoring 95 out of 100 for his final year thesis project."
+  },
+  {
+    "key": "Graduation year",
+    "value": "2013",
+    "comments": "The text states 'where he earned his M.Tech in Data Science in 2013'.",
+    "raw_context": "His academic excellence continued at IIT Bombay, where he earned his M.Tech in Data Science in 2013, achieving\nan exceptional CGPA of 9.2 and scoring 95 out of 100 for his final year thesis project."
+  },
+  {
+    "key": "Graduation CGPA",
+    "value": "9.2",
+    "comments": "The text states 'achieving an exceptional CGPA of 9.2'.",
+    "raw_context": "His academic excellence continued at IIT Bombay, where he earned his M.Tech in Data Science in 2013, achieving\nan exceptional CGPA of 9.2 and scoring 95 out of 100 for his final year thesis project."
+  },
+  {
+    "key": "Certifications 1",
+    "value": "AWS Solutions Architect exam in 2019 with a score of 920 out of 1000",
+    "comments": "The text mentions 'He passed the AWS Solutions Architect exam in 2019 with a score of 920 out of 1000'.",
+    "raw_context": "He passed the AWS Solutions Architect exam in 2019 with a score of 920 out of 1000, followed by\nthe Azure Data Engineer certification in 2020 with 875 points."
+  },
+  {
+    "key": "Certifications 2",
+    "value": "Azure Data Engineer certification in 2020 with 875 points",
+    "comments": "The text mentions 'followed by the Azure Data Engineer certification in 2020 with 875 points'.",
+    "raw_context": "He passed the AWS Solutions Architect exam in 2019 with a score of 920 out of 1000, followed by\nthe Azure Data Engineer certification in 2020 with 875 points."
+  },
+  {
+    "key": "Certifications 3",
+    "value": "Project Management Professional certification, obtained in 2021, with an \"Above Target\" rating from PMI",
+    "comments": "The text states 'His Project Management Professional certification, obtained in 2021, was achieved with an \"Above Target\" rating from PMI'.",
+    "raw_context": "His Project Management Professional\ncertification, obtained in 2021, was achieved with an \"Above Target\" rating from PMI, while his SAFe\nAgilist certification earned him an outstanding 98% score."
+  },
+  {
+    "key": "Certifications 4",
+    "value": "SAFe Agilist certification with an outstanding 98% score",
+    "comments": "The text states 'his SAFe Agilist certification earned him an outstanding 98% score'.",
+    "raw_context": "His Project Management Professional\ncertification, obtained in 2021, was achieved with an \"Above Target\" rating from PMI, while his SAFe\nAgilist certification earned him an outstanding 98% score."
+  },
+  {
+    "key": "Technical Proficiency",
+    "value": "SQL expertise at a perfect 10 out of 10, reflecting his daily usage since 2012. His Python proficiency scores 9 out of 10, backed by over seven years of practical experience, while his machine learning capabilities rate 8 out of 10, representing five years of hands-on implementation. His cloud platform expertise, including AWS and Azure certifications, also rates 9 out of 10 with more than four years of experience, and his data visualization skills in Power BI and Tableau score 8 out of 10, establishing him as an expert in the field.",
+    "comments": "The text provides a detailed description of Vijay's technical proficiency across various skills.",
+    "raw_context": "In terms of technical proficiency, Vijay rates himself highly across various skills, with SQL expertise\nat a perfect 10 out of 10, reflecting his daily usage since 2012. His Python proficiency scores 9 out\nof 10, backed by over seven years of practical experience, while his machine learning capabilities\nrate 8 out of 10, representing five years of hands-on implementation. His cloud platform expertise,\nincluding AWS and Azure certifications, also rates 9 out of 10 with more than four years of\nexperience, and his data visualization skills in Power BI and Tableau score 8 out of 10, establishing\nhim as an expert in the field."
+  }
+]

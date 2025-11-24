@@ -1,0 +1,8 @@
+pdfplumber==0.8.0
+openai==0.27.0
+tqdm
+python-dotenv
+openpyxl
+streamlit
+pandas
+google-generativeai
